@@ -1,4 +1,4 @@
-# E-E-COMMERCE CHURN PREDICTION
+# E-COMMERCE CHURN PREDICTION
 
 ## Latar Belakang 
 Churn Rate merupakan angka yang dapat menunjukkan tingkat persentase di mana perusahaan kehilangan pelanggan atau pendapatannya karena berbagai keadaan. Pada perusahaan ini dalam satu bulan terakhir churn rate mencapai lebih dari 5%* (standar Churn Rate perusahaan e-Commerce). Sehingga dampak yang dihasilkan akibat Churn Rate tersebut adalah adanya potensi kehilangan Revenue. Maka berdasarkan latar belakang tersebut penting untuk menurunkan churn rate tersebut dengan membuat model untuk mendeteksi pelanggan yang berpotensi berhenti berlangganan.
